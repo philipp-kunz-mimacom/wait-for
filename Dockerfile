@@ -1,4 +1,4 @@
-FROM node:16-alpine@sha256:a9b9cb880fa429b0bea899cd3b1bc081ab7277cc97e6d2dcd84bd9753b2027e1
+FROM node:16-alpine@sha256:c2ed3b2b36b726980474f8bf80025ca3a1aeb90c76286953f9f4b9b1dc3001b0
 
 # Install bash
 RUN apk add --no-cache bash
