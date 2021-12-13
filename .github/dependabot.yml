@@ -27,3 +27,6 @@ updates:
     labels:
       - 'docker'
       - 'dependencies'
+    ignore:
+      - dependency-name: 'node'
+        update-types: ['version-update:semver-major']
