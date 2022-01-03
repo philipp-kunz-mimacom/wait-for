@@ -1,3 +1,15 @@
+# [2.2.0](https://github.com/philipp-kunz-mimacom/wait-for/compare/v2.1.3...v2.2.0) (2022-01-03)
+
+
+### Bug Fixes
+
+* wget timeout does not double ([206b38d](https://github.com/philipp-kunz-mimacom/wait-for/commit/206b38d01ddf0fe76ea35efadc4ebdfb6c877895))
+
+
+### Features
+
+* adds -v and --version flag to show the version (Thanks [@philipp-kunz-mimacom](https://github.com/philipp-kunz-mimacom)) ([8636f50](https://github.com/philipp-kunz-mimacom/wait-for/commit/8636f50d4a83e3e1c44fafae7c3d63f2f3d8db49)), closes [#71](https://github.com/philipp-kunz-mimacom/wait-for/issues/71)
+
 ## [2.2.1](https://github.com/eficode/wait-for/compare/v2.2.0...v2.2.1) (2021-12-03)
 
 
